@@ -3,3 +3,8 @@ if check_age >= 18:
   print 'False'
 elif check_age < 18:
     print 'True'
+
+
+x=[1,2,'a',123,14,222,'b','c']
+print len(x)
+
